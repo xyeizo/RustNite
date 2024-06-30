@@ -1,3 +1,3 @@
 # RustNite
 
-![LordHaveMercy](https://github.com/xyeizo/RustNite/assets/167483441/af9cd0fd-6baf-46fe-9838-6ce0b59d6f47)
+![LordHaveMercy](https://github.com/xyeizo/RustNite/assets/167483441/867b13c6-92e2-4535-896b-121f42264ef4)
